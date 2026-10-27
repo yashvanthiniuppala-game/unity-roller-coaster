@@ -5,7 +5,7 @@
 
 A physics-driven roller coaster simulation built in **Unity 6** with **C#** and the **Unity Splines** package. The cart rides a spline track with a lift hill, drops, banked turns, a barrel-roll twist and a vertical loop through a themed desert world, with water splashes, fire, explosions, physics-based destruction and a fireworks finale.
 
-▶️ **[Watch the full ride on YouTube](YOUTUBE_LINK_HERE)**
+▶️ **[Watch the full ride on YouTube]https://www.youtube.com/watch?v=cFuuxnEUUPE**
 
 **~10,000 lines of C#** across 46 scripts: runtime gameplay systems plus custom Unity Editor tooling.
 
